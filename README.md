@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Atharva Sathe]! 👋
 
 ## 🚀 About Me
 I’m an upcoming **Computer Science Engineering** graduate (Class of 2025) specializing in **Full-Stack Development**. Passionate about building scalable web applications and solving real-world problems through technology.
