@@ -11,7 +11,7 @@ I’m an upcoming **Computer Science Engineering** graduate (Class of 2025) spec
 
 ## 📚 What I'm Working On
 - Exploring **system design** and best practices for scalable applications.
-- Improving my problem-solving skills with **LeetCode**, **HackerRank** and **competitive programming**.
+- Improving my problem-solving skills through **LeetCode** and **HackerRank**.
 - Contributing to **open-source projects** and collaborating with developers.
 
 ## 📫 Connect with Me
@@ -20,7 +20,7 @@ I’m an upcoming **Computer Science Engineering** graduate (Class of 2025) spec
 - **Email:** sathe.atharva@gmail.com
 
 ## ⚡ Fun Fact
-When I’m not coding, I enjoy **reading books**, **playing chess**, and **exploring new places**.
+When I’m not coding, I enjoy **reading books**, **playing badminton**, and **exploring new places**.
 
 ---
 
