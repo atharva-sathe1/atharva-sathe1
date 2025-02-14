@@ -15,7 +15,7 @@ I’m an upcoming **Computer Science Engineering** graduate (Class of 2025) spec
 - Contributing to **open-source projects** and collaborating with developers.
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Atharva Sathe](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [Atharva Sathe](www.linkedin.com/in/atharvasathe101)
 - **Email:** sathe.atharva@gmail.com
 
 ## ⚡ Fun Fact
