@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**atharva-sathe1/atharva-sathe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I’m an upcoming **Computer Science Engineering** graduate (Class of 2025) specializing in **Full-Stack Development**. Passionate about building scalable web applications and solving real-world problems through technology.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js, Django
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Other:** Git, Firebase, Docker, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 What I'm Working On
+- Exploring **system design** and best practices for scalable applications.
+- Improving my problem-solving skills with **LeetCode**, **HackerRank** and **competitive programming**.
+- Contributing to **open-source projects** and collaborating with developers.
+
+## 📫 Connect with Me
+- **LinkedIn:** [Atharva Sathe](https://linkedin.com/in/your-profile)
+- **GitHub:** [Github](https://github.com/your-username)
+- **Email:** sathe.atharva@gmail.com
+
+## ⚡ Fun Fact
+When I’m not coding, I enjoy **reading books**, **playing chess**, and **exploring new places**.
+
+---
+
+⭐ **Let's build something amazing together!**  
